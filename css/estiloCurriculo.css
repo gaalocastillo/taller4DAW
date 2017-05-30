@@ -1,0 +1,44 @@
+h1 {
+	text-align: center;
+}
+
+.superbox{
+	margin: 5px;
+}
+
+h2#datos{
+	text-align: center;
+
+}
+
+.superbox{
+	border-style: solid;
+	border-width: 1pt;
+	border-color: #cbccc1;
+}
+
+#periodo{
+	font-style: italic;
+}
+
+.institucion{
+	font-weight: bold;
+}
+
+img {
+	margin.right: : 10px;
+}
+
+.habilidad{
+	border-radius: 10px;
+	border-style: outset;
+	display: inline;
+	box-shadow: 10px;
+}
+
+
+
+.conImagen{
+	display: inline-block;
+	vertical-align: middle;
+}

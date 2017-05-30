@@ -1,0 +1,26 @@
+h1#titulo-sitio{
+	font-size: 4em;
+	color: #d39a0a;
+	text-shadow: 2px 2px #bc8609;  
+}
+
+/*body{
+	background-image: url('../cheffImage.png');
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-size: 10%;
+	background-color: #f1e6e4;
+}*/
+
+div.miniTopBox{
+	border-radius: 10px;
+	border-style: outset;
+	display: inline;
+	background-image: 
+}
+
+
+div>p:hover {
+	display: inline;
+	font-weight: bold;
+}
